@@ -1,0 +1,9 @@
+openai
+cassio
+langchain
+datasets
+streamlit
+dotenv
+os
+PyPDF2
+
